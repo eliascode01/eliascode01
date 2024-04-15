@@ -9,78 +9,105 @@
 
 # 💻 Tech Stack:
 
-## <img width="30" height="30" src="https://img.icons8.com/color/48/code.png" alt="code"/> | Languages:
+## Languages:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="48"  title="Python">
+  <img src="https://www.svgrepo.com/show/369410/markdown.svg" width="48"  title="Markdown">
+</p>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+## Tools:
 
-## <img width="30" height="30" src="https://img.icons8.com/color/48/maintenance.png" alt="maintenance"/> | Tools:
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" width="48" title="PowerShell">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">
+  <img src="https://cdn.icon-icons.com/icons2/2955/PNG/512/terminal_fill_icon_185434.png" width="48" title="Windows Terminal">   
+  <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" width="48"  title="Shell Script">
+  <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="48"  title="ESLint">
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="48"  title="Prettier">
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="48" title="Notion"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tor-1.svg" width="48" title="TOR">   
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48"  title="Trello">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/glitch_logo_icon_170085.png" width="48"  title="Glitch">
+  <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_codepen_coding_development_program_programming_icon_123266.png" width="48"  title="Codepen">
+</p>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+## Hosting/SaaS:
 
-![Prettier](https://gregberge.com/static/a15f8dc6cde9d6dc9e94a2edb43b6108/58556/banner.webp)
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
-![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-## <img width="30" height="30" src="https://img.icons8.com/papercut/60/private-cloud-storage.png" alt="private-cloud-storage"/> | Hosting/SaaS:
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GithubPages"> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" width="48"  title="Heroku">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">
+ 
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="48"  title="Google Cloud">
+  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="48"  title="Render">
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="48"  title="Hostinger ">
+</p>
 
 ## 💣 | Frameworks
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![Astro](https://img.shields.io/badge/astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">  
+  <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="48" title="Bulma"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">  
+  <img src="https://www.svgrepo.com/show/373446/astro.svg" width="60" title="Astro">
+</p>
 
 ## 🧨 | Platforms
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
+  <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="48" title="Less"> 
+  <img src="https://bun.sh/logo.svg" width="60" title="BunJS">
+  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" title="NPM">  
+  <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" width="48" title="PNPM"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
+</p>
 
-## <img width="30" height="30" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/external-databases-web-seo-prettycons-flat-prettycons.png" alt="external-databases-web-seo-prettycons-flat-prettycons"/> | DataBases
+## DataBases
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="48" title="MySQL"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
+</p>
 
 ## 🌹 | Design Tools
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">   
+  <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" width="48" title="Google Fonts">
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" title="Canva"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
+</p>
+
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![Google Fonts](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Google_Fonts_logo.svg/512px-Google_Fonts_logo.svg.png)
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eliascode01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eliascode01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliascode01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<h1 align="center">Github Metrics </h1>
+<p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliascode01&theme=github_dark" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliascode01&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="eliascode01 Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascode01&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=eliascode01&theme=tokyonight_duo&hide_border=true"
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eliascode01&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
@@ -88,8 +115,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eliascode01&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eliascode01&icon=2&color=1)](https://visitcount.itsvg.in)
