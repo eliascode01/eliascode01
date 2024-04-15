@@ -22,83 +22,57 @@
 # 💻 Tech Stack:
 
 ## Languages:
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="48"  title="Python">
-  <img src="https://www.svgrepo.com/show/369410/markdown.svg" width="48"  title="Markdown">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,md,svg" alt="html,css,js,py,md,svg" />
 </p>
 
 ## Tools:
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" width="48" title="PowerShell">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">
-  <img src="https://cdn.icon-icons.com/icons2/2955/PNG/512/terminal_fill_icon_185434.png" width="48" title="Windows Terminal">   
-  <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" width="48"  title="Shell Script">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" alt="git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" />
   <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="48"  title="ESLint">
   <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="48"  title="Prettier">
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="48" title="Notion"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/tor-1.svg" width="48" title="TOR">   
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48"  title="Trello">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/glitch_logo_icon_170085.png" width="48"  title="Glitch">
-  <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_codepen_coding_development_program_programming_icon_123266.png" width="48"  title="Codepen">
+  <img src="https://cdn.worldvectorlogo.com/logos/tor-1.svg" width="48" title="TOR">   
 </p>
 
 ## Hosting/SaaS:
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GithubPages"> 
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" width="48"  title="Heroku">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">
- 
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="48"  title="Google Cloud">
-  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="48"  title="Render">
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="48"  title="Hostinger ">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=firebase,github,heroku,vercel,netlify,gcp" alt="firebase,github,heroku,vercel,netlify,gcp" title="firebase,github,heroku,vercel,netlify,gcp" />
+  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="40"  title="Render">
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="40"  title="Hostinger ">
 </p>
 
 ## 💣 | Frameworks
 
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">  
-  <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="48" title="Bulma"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">  
-  <img src="https://www.svgrepo.com/show/373446/astro.svg" width="60" title="Astro">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,astro" alt="bootstrap, tailwind, astro" title="bootstrap, tailwind, astro" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="40" title="Bulma"> 
 </p>
 
 ## 🧨 | Platforms
 
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
-  <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="48" title="Less"> 
-  <img src="https://bun.sh/logo.svg" width="60" title="BunJS">
-  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" title="NPM">  
-  <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" width="48" title="PNPM"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=sass,less,bun,npm,pnpm,nodejs" alt="sass, less, bun, npm, pnpm, nodejs" title="sass, less, bun, npm, pnpm, nodejs" />
 </p>
 
 ## DataBases
 
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="48" title="MySQL"> 
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" alt="firebase, mysql, supabase" title="firebase, mysql, supabase" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
 </p>
 
+
 ## 🌹 | Design Tools
 
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma,xd" title="figma, xd" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" width="48" alt="google fonts" title="Google Fonts">
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" alt="canva" title="Canva">  
+</p>
+
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">   
-  <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" width="48" title="Google Fonts">
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" title="Canva"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
 </p>
 
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
