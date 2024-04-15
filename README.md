@@ -3,9 +3,21 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliascode_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiselias) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eliascode_) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/eliascode_) 
+
+<p align="center">
+  <a href="https://instagram.com/eliascode_">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alta="Instagram" width="48" title="Perfil de Instagram" />
+  </a>
+  <a href="www.linkedin.com/in/luiselias01">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alta="LinkedIn" width="48" title="Perfil de LinkedIn" />
+  </a>
+  <a href="https://x.com/eliascode_"">
+    <img src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?t=st=1713195348~exp=1713198948~hmac=d0ded80e6a29a29b44ce691079c0d83f5f8853f1c5d2ff52da2bb4d251c90490&w=740" alta="X" width="48" title="Perfil de X" />
+  </a>
+  <a href="https://codepen.io/eliascode_">
+    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_codepen_coding_development_program_programming_icon_123266.png" alta="Codepen" width="48" title="Perfil de Codepen" />
+  </a>
+</p> 
 
 # 💻 Tech Stack:
 
