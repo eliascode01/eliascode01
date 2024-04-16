@@ -64,12 +64,12 @@
 </p>
 
 
-## 🌹 | Design Tools
+## 🌹 | Design Software
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma,xd" title="figma, xd" />
   <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" width="48" alt="google fonts" title="Google Fonts">
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" alt="canva" title="Canva">  
+  <img src="https://svgl.vercel.app/library/canva.svg" width="48" alt="canva" title="Canva">  
 </p>
 
 <p align="center">
