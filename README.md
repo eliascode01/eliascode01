@@ -8,7 +8,7 @@
   <a href="https://instagram.com/eliascode_">
     <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alta="Instagram" width="48" title="Perfil de Instagram" />
   </a>
-  <a href="www.linkedin.com/in/luiselias01">
+  <a href="www.linkedin.com/in/eliasdev06">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alta="LinkedIn" width="48" title="Perfil de LinkedIn" />
   </a>
   <a href="https://x.com/eliascode_"">
