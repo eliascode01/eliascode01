@@ -73,9 +73,7 @@
   <img src="https://svgl.vercel.app/library/canva.svg" width="48" alt="canva" title="Canva">  
 </p>
 
-<p align="center">
-  ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
-</p>
+![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
 
 # 📊 GitHub Stats:
 
