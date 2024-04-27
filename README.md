@@ -22,11 +22,13 @@
 # 💻 Tech Stack:
 
 ## Languages:
+
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=html,css,js,py,md,svg" alt="html,css,js,py,md,svg" />
 </p>
 
 ## Tools:
+
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" alt="git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" />
 </p>
@@ -38,34 +40,36 @@
 </p>
 
 ## Hosting/SaaS:
+
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=firebase,github,heroku,vercel,netlify,gcp" alt="firebase,github,heroku,vercel,netlify,gcp" title="firebase,github,heroku,vercel,netlify,gcp" />
 </p>
 <p align="center"> 
-  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="40"  title="Render">
-  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="40"  title="Hostinger ">
+  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="40"  title="Render" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="40"  title="Hostinger" />
 </p>
-## Frameworks
+
+## Frameworks:
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,astro" alt="bootstrap, tailwind, astro" title="bootstrap, tailwind, astro" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="40" title="Bulma"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="40" title="Bulma" /> 
 </p>
 
-## Platforms
+## Platforms:
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=sass,less,bun,npm,pnpm,nodejs" alt="sass, less, bun, npm, pnpm, nodejs" title="sass, less, bun, npm, pnpm, nodejs" />
 </p>
 
-## DataBases
+## DataBases:
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" alt="firebase, mysql, supabase" title="firebase, mysql, supabase" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
 </p>
 
-## Design Software
+## Design Software:
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma,xd" title="figma, xd" />
