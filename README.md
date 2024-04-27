@@ -29,28 +29,30 @@
 ## Tools:
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" alt="git,vscode,stackoverflow,devto,codepen,powershell,bash,notion,codepen,replit" />
+</p>
+<p align="center">  
   <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="48"  title="ESLint">
-  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="48"  title="Prettier">
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="45"  title="Prettier">
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48"  title="Trello">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/glitch_logo_icon_170085.png" width="48"  title="Glitch">
-  <img src="https://cdn.worldvectorlogo.com/logos/tor-1.svg" width="48" title="TOR">   
 </p>
 
 ## Hosting/SaaS:
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=firebase,github,heroku,vercel,netlify,gcp" alt="firebase,github,heroku,vercel,netlify,gcp" title="firebase,github,heroku,vercel,netlify,gcp" />
+</p>
+<p align="center"> 
   <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/render_logo_icon_248664.png" width="40"  title="Render">
   <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="40"  title="Hostinger ">
 </p>
-
-## 💣 | Frameworks
+## Frameworks
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,astro" alt="bootstrap, tailwind, astro" title="bootstrap, tailwind, astro" />
   <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="40" title="Bulma"> 
 </p>
 
-## 🧨 | Platforms
+## Platforms
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=sass,less,bun,npm,pnpm,nodejs" alt="sass, less, bun, npm, pnpm, nodejs" title="sass, less, bun, npm, pnpm, nodejs" />
@@ -63,8 +65,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60" title="Microsoft SQL Server"> 
 </p>
 
-
-## 🌹 | Design Software
+## Design Software
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=figma,xd" alt="figma,xd" title="figma, xd" />
@@ -73,10 +74,8 @@
 </p>
 
 <p align="center">
+  ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
 </p>
-
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
-
 
 # 📊 GitHub Stats:
 
